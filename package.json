@@ -1,0 +1,25 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/governorbaloyi/proxy-server.git"
+  },
+  "keywords": [],
+  "author": "governorbaloyi <governor.baloyi@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/governorbaloyi/proxy-server/issues"
+  },
+  "homepage": "https://github.com/governorbaloyi/proxy-server#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "http-proxy-middleware": "^2.0.2"
+  }
+}
